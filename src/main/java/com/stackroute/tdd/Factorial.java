@@ -1,6 +1,6 @@
 //Write a program to list all the factorials, that can be expressed as an int (i.e., 32-bit signed integer).
-//Modify your program and add a method called longFactorial to list all the factorial that can
-//be expressed as a long (64-bit signed integer).The maximum value for long is kept in a constant called Long.MAX_VALUE.
+//Modify your program and add a method called longFactorial to list all the factorial that can be expressed as a long (64-bit signed integer)
+// The maximum value for long is kept in a constant called Long.MAX_VALUE.
 
 package com.stackroute.tdd;
 
